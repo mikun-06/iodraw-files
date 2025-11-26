@@ -171,10 +171,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="K0i1W85PLH1KyJ3LUkDZ-81" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="400" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="K0i1W85PLH1KyJ3LUkDZ-82" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.42;entryY=0.979;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="K0i1W85PLH1KyJ3LUkDZ-81" target="K0i1W85PLH1KyJ3LUkDZ-81">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="380" y="400" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
