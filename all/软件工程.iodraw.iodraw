@@ -67,12 +67,15 @@
         </mxCell>
         <mxCell id="K0i1W85PLH1KyJ3LUkDZ-48" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="720" y="190" as="sourcePoint" />
+            <mxPoint x="730" y="190" as="sourcePoint" />
             <mxPoint x="630" y="190" as="targetPoint" />
             <Array as="points">
               <mxPoint x="715" y="190" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="K0i1W85PLH1KyJ3LUkDZ-51" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
