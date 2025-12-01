@@ -119,13 +119,13 @@
           <mxGeometry x="270" y="300" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="EXzHhB-p2GQEzUy1oGu3-68" value="&lt;font face=&quot;楷体&quot;&gt;根据所在部门查看职工&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="300" width="20" height="150" as="geometry" />
+          <mxGeometry x="440" y="300" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="EXzHhB-p2GQEzUy1oGu3-69" value="&lt;font face=&quot;楷体&quot;&gt;根据所在部门查看职工&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="300" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="EXzHhB-p2GQEzUy1oGu3-70" value="&lt;font face=&quot;楷体&quot;&gt;根据所在部门查看职工&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="380" width="20" height="150" as="geometry" />
+          <mxGeometry x="480" y="300" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="EXzHhB-p2GQEzUy1oGu3-71" value="&lt;font face=&quot;楷体&quot;&gt;根据所在部门查看职工&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="380" width="20" height="150" as="geometry" />
@@ -168,6 +168,15 @@
             <mxPoint x="690" y="270" as="sourcePoint" />
             <mxPoint x="690" y="220" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="EXzHhB-p2GQEzUy1oGu3-80" value="&lt;font face=&quot;楷体&quot;&gt;根据所在部门查看职工&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="350" width="20" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="EXzHhB-p2GQEzUy1oGu3-81" value="&lt;font face=&quot;楷体&quot;&gt;根据所在部门查看职工&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="380" width="20" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="EXzHhB-p2GQEzUy1oGu3-82" value="&lt;font face=&quot;楷体&quot;&gt;根据所在部门查看职工&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="410" width="20" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
