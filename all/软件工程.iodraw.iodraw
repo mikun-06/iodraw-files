@@ -142,6 +142,12 @@
         <mxCell id="EXzHhB-p2GQEzUy1oGu3-38" value="&lt;font face=&quot;楷体&quot;&gt;输入&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="410" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="EXzHhB-p2GQEzUy1oGu3-39" value="&lt;font face=&quot;楷体&quot;&gt;输入&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EXzHhB-p2GQEzUy1oGu3-40" value="&lt;font face=&quot;楷体&quot;&gt;输入&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="420" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
