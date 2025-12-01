@@ -101,7 +101,7 @@
           <mxGeometry x="250" y="360" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="EXzHhB-p2GQEzUy1oGu3-62" value="&lt;font face=&quot;楷体&quot;&gt;根据所在部门查看职工&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="370" width="20" height="150" as="geometry" />
+          <mxGeometry x="140" y="300" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="EXzHhB-p2GQEzUy1oGu3-63" value="&lt;font face=&quot;楷体&quot;&gt;根据所在部门查看职工&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="370" width="20" height="150" as="geometry" />
@@ -135,8 +135,8 @@
         </mxCell>
         <mxCell id="EXzHhB-p2GQEzUy1oGu3-73" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="160" y="270" as="sourcePoint" />
-            <mxPoint x="160" y="220" as="targetPoint" />
+            <mxPoint x="169.5" y="300" as="sourcePoint" />
+            <mxPoint x="169.5" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EXzHhB-p2GQEzUy1oGu3-74" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
