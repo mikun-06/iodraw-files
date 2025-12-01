@@ -178,6 +178,15 @@
         <mxCell id="EXzHhB-p2GQEzUy1oGu3-82" value="&lt;font face=&quot;楷体&quot;&gt;根据所在部门查看职工&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="410" width="20" height="150" as="geometry" />
         </mxCell>
+        <mxCell id="EXzHhB-p2GQEzUy1oGu3-83" value="&lt;font face=&quot;楷体&quot;&gt;根据所在部门查看职工&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="440" width="20" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="EXzHhB-p2GQEzUy1oGu3-84" value="&lt;font face=&quot;楷体&quot;&gt;根据所在部门查看职工&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="450" width="20" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="EXzHhB-p2GQEzUy1oGu3-85" value="&lt;font face=&quot;楷体&quot;&gt;根据所在部门查看职工&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="470" width="20" height="150" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
