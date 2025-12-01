@@ -42,9 +42,12 @@
         </mxCell>
         <mxCell id="EXzHhB-p2GQEzUy1oGu3-12" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="250" y="190" as="sourcePoint" />
-            <mxPoint x="250" y="160" as="targetPoint" />
+            <mxPoint x="260" y="220" as="sourcePoint" />
+            <mxPoint x="260" y="170" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="EXzHhB-p2GQEzUy1oGu3-13" value="&lt;font face=&quot;楷体&quot;&gt;输入&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="250" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
