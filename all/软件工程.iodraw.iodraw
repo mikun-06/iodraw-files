@@ -91,6 +91,15 @@
         <mxCell id="EXzHhB-p2GQEzUy1oGu3-58" value="&lt;font face=&quot;楷体&quot;&gt;根据所在部门查看职工&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="300" width="20" height="150" as="geometry" />
         </mxCell>
+        <mxCell id="EXzHhB-p2GQEzUy1oGu3-59" value="&lt;font face=&quot;楷体&quot;&gt;根据所在部门查看职工&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="330" width="20" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="EXzHhB-p2GQEzUy1oGu3-60" value="&lt;font face=&quot;楷体&quot;&gt;根据所在部门查看职工&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="350" width="20" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="EXzHhB-p2GQEzUy1oGu3-61" value="&lt;font face=&quot;楷体&quot;&gt;根据所在部门查看职工&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="360" width="20" height="150" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
