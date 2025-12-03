@@ -37,8 +37,11 @@
             <mxPoint x="370" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="RMw6R-1uhgoLMFWAFrdE-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RMw6R-1uhgoLMFWAFrdE-9" target="RMw6R-1uhgoLMFWAFrdE-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RMw6R-1uhgoLMFWAFrdE-9" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;楷体&quot;&gt;学生成绩数据库&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="330" y="420" width="140" height="30" as="geometry" />
+          <mxGeometry x="325" y="420" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RMw6R-1uhgoLMFWAFrdE-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
