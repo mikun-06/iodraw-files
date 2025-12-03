@@ -29,10 +29,10 @@
           <mxGeometry x="389" y="90" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RMw6R-1uhgoLMFWAFrdE-41" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;楷体&quot;&gt;智能手机操作系统&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="110" width="150" height="50" as="geometry" />
+          <mxGeometry x="620" y="50" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RMw6R-1uhgoLMFWAFrdE-42" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;楷体&quot;&gt;智能手机操作系统&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="160" width="150" height="50" as="geometry" />
+          <mxGeometry x="600" y="160" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RMw6R-1uhgoLMFWAFrdE-43" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;楷体&quot;&gt;智能手机操作系统&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="160" width="150" height="50" as="geometry" />
@@ -43,7 +43,7 @@
         <mxCell id="RMw6R-1uhgoLMFWAFrdE-45" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;楷体&quot;&gt;智能手机操作系统&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="160" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="RMw6R-1uhgoLMFWAFrdE-46" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;楷体&quot;&gt;智能手机操作系统&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RMw6R-1uhgoLMFWAFrdE-46" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;楷体&quot;&gt;通话管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="160" width="150" height="50" as="geometry" />
         </mxCell>
       </root>
