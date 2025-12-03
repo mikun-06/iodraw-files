@@ -280,7 +280,7 @@
         <mxCell id="RMw6R-1uhgoLMFWAFrdE-149" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;楷体&quot;&gt;热点共享&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="300" width="30" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="RMw6R-1uhgoLMFWAFrdE-150" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;楷体&quot;&gt;发送短信&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RMw6R-1uhgoLMFWAFrdE-150" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;楷体&quot;&gt;网络诊断&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="300" width="30" height="120" as="geometry" />
         </mxCell>
         <mxCell id="RMw6R-1uhgoLMFWAFrdE-151" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
