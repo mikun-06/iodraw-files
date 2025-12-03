@@ -4,10 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="RMw6R-1uhgoLMFWAFrdE-1" value="学生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RMw6R-1uhgoLMFWAFrdE-1" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;楷体&quot;&gt;学生&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RMw6R-1uhgoLMFWAFrdE-2" value="教师" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RMw6R-1uhgoLMFWAFrdE-2" value="&lt;font style=&quot;font-size: 15px;&quot; face=&quot;楷体&quot;&gt;教师&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RMw6R-1uhgoLMFWAFrdE-3" value="教务管理人员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
