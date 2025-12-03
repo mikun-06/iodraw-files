@@ -82,36 +82,6 @@
             <mxPoint x="230" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RMw6R-1uhgoLMFWAFrdE-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="660" as="sourcePoint" />
-            <mxPoint x="250" y="610" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RMw6R-1uhgoLMFWAFrdE-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="210" y="670" as="sourcePoint" />
-            <mxPoint x="260" y="620" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RMw6R-1uhgoLMFWAFrdE-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="220" y="680" as="sourcePoint" />
-            <mxPoint x="270" y="630" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RMw6R-1uhgoLMFWAFrdE-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="230" y="690" as="sourcePoint" />
-            <mxPoint x="280" y="640" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RMw6R-1uhgoLMFWAFrdE-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="240" y="700" as="sourcePoint" />
-            <mxPoint x="290" y="650" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="RMw6R-1uhgoLMFWAFrdE-27" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;楷体&quot;&gt;不及格学生名录&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="480" y="340" width="120" height="30" as="geometry" />
         </mxCell>
