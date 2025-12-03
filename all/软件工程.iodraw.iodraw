@@ -19,11 +19,11 @@
         <mxCell id="RMw6R-1uhgoLMFWAFrdE-47" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="90" y="120" as="sourcePoint" />
-            <mxPoint x="630" y="120" as="targetPoint" />
+            <mxPoint x="640" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RMw6R-1uhgoLMFWAFrdE-48" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;楷体&quot;&gt;通话管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="220" width="90" height="50" as="geometry" />
+          <mxGeometry x="40" y="170" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RMw6R-1uhgoLMFWAFrdE-49" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;楷体&quot;&gt;通话管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="170" width="90" height="50" as="geometry" />
@@ -47,12 +47,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="310" y="170" as="sourcePoint" />
             <mxPoint x="310" y="120" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RMw6R-1uhgoLMFWAFrdE-55" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="110" y="190" as="sourcePoint" />
-            <mxPoint x="110" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RMw6R-1uhgoLMFWAFrdE-56" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
