@@ -283,6 +283,39 @@
         <mxCell id="RMw6R-1uhgoLMFWAFrdE-150" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;楷体&quot;&gt;发送短信&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="300" width="30" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="RMw6R-1uhgoLMFWAFrdE-151" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="609" y="250" as="sourcePoint" />
+            <mxPoint x="670" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RMw6R-1uhgoLMFWAFrdE-152" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;楷体&quot;&gt;接收短信&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="300" width="30" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="RMw6R-1uhgoLMFWAFrdE-153" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="609" y="300" as="sourcePoint" />
+            <mxPoint x="609" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RMw6R-1uhgoLMFWAFrdE-154" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="639" y="300" as="sourcePoint" />
+            <mxPoint x="639" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RMw6R-1uhgoLMFWAFrdE-155" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="664.5" y="300" as="sourcePoint" />
+            <mxPoint x="664.5" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RMw6R-1uhgoLMFWAFrdE-156" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;楷体&quot;&gt;编辑短信&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="300" width="30" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="RMw6R-1uhgoLMFWAFrdE-157" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;楷体&quot;&gt;发送短信&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="300" width="30" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
