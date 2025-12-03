@@ -193,6 +193,48 @@
         <mxCell id="RMw6R-1uhgoLMFWAFrdE-109" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;楷体&quot;&gt;通话设置&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="350" width="30" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="RMw6R-1uhgoLMFWAFrdE-110" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="159" y="250" as="sourcePoint" />
+            <mxPoint x="250" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RMw6R-1uhgoLMFWAFrdE-111" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;楷体&quot;&gt;发起通话&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="300" width="30" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="RMw6R-1uhgoLMFWAFrdE-112" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="159" y="300" as="sourcePoint" />
+            <mxPoint x="159" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RMw6R-1uhgoLMFWAFrdE-113" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="189" y="300" as="sourcePoint" />
+            <mxPoint x="189" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RMw6R-1uhgoLMFWAFrdE-114" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="214.5" y="300" as="sourcePoint" />
+            <mxPoint x="214.5" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RMw6R-1uhgoLMFWAFrdE-115" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="244.5" y="300" as="sourcePoint" />
+            <mxPoint x="244.5" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RMw6R-1uhgoLMFWAFrdE-116" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;楷体&quot;&gt;接听挂断电话&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="300" width="30" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="RMw6R-1uhgoLMFWAFrdE-117" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;楷体&quot;&gt;查询通话记录&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="300" width="30" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="RMw6R-1uhgoLMFWAFrdE-118" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;楷体&quot;&gt;通话设置&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="300" width="30" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
